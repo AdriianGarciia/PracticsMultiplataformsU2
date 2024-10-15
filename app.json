@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "multipro",
-    "slug": "multipro",
+    "name": "Aplicacion",
+    "slug": "Aplicacion",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
